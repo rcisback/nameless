@@ -1,0 +1,25 @@
+cmd.add({"Playerlifter"}, {"Playerlifter", "Click on a player to lift them to the heavens"}, function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/rcisback/playerfly/main/nameless'))()end)
+
+cmd.add({"mvf"}, {"mobilevehiclefly (mvfly)"," be able to fly vehicles but on mobile, yes."}, function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rcisback/mvfly/main/nameless"))()end)
+
+cmd.add({"vm"}, {"victim menu (vm)"," victim menu a op fe menu to troll"}, function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GS21Official/DH-VictimMenu-Script/main/Dh%20VictimMenu%3A%20Script"))()end)
+
+cmd.add({"rtx"}, {"rtx", "ImPatrick RTX"}, function()
+loadstring(game:HttpGet(('https://pastefy.app/xXkUxA0P/raw'),true))()end)
+
+cmd.add({"ForceR6"}, {"ForceR6", "It forces R6 when the command r6 doesn't work"}, function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Imagnir/r6_anims_for_r15/main/r6_anims.lua"))()end)
+
+cmd.add({"lagswitchgui"}, {"lagswitchgui", "a lag switch gui with on and off op for sword"}, function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/0Ben1/fe/main/Protected%20-%202023-05-28T225112.055.lua.txt'))()end)
+
+cmd.add({"ChatBypass"}, {"ChatBypass", "Simply Bypasses The Chat"}, function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/synnyyy/synergy/additional/betterbypasser", true))({
+    Method = 1,
+    Keybind = "f",
+    ShowMethodDictionary = true 
+})
+end)
